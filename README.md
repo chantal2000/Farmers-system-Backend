@@ -5,9 +5,8 @@ This project involves developing a system for farmers and an agro-input store to
 
 Table of Contents
 
-Installation
-Features
-Installation
+Installation ,Features
+and Installation
 
 You must have different tools in your development environment. 
 -you should have nodejs in your environment -you should run npm install.
